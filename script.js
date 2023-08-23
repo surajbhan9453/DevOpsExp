@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", function() {
         
         // You can perform further actions here, like sending form data to a server
         
-        alert("Form submitted successfully!");
+               const message = "Form submitted successfully!";
+               alert(message);       
+ 
     });
 });
